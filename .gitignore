@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# Added by Ale:
+# Build folder are usually called "build"
+build/
