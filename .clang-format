@@ -2,10 +2,6 @@
 # We'll use defaults from the LLVM style, but some small modifications.
 BasedOnStyle: LLVM
 
-# Force pointers to the type for C++.
-DerivePointerAlignment: false
-PointerAlignment: Left
-
 # A style similar to the Linux Kernel style:
 IndentWidth: 8
 UseTab: Always
